@@ -1,0 +1,24 @@
+{
+    "name": "js-homework",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "dev": "live-server --host=localhost --port=5500 --no-browser",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/workerKwon/js-homework.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/workerKwon/js-homework/issues"
+    },
+    "homepage": "https://github.com/workerKwon/js-homework#readme",
+    "devDependencies": {
+        "live-server": "^1.2.2"
+    }
+}
